@@ -1,0 +1,23 @@
+E
+
+miem en g
+prof -ref
+grupo - ref
+rol - ref
+
+
+enum - ver
+
+
+
+prof
+array miemb
+
+grupo
+array de miemb
+
+rol
+nada
+
+publicacion
+mieb - ref
